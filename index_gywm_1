@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>安徽荣鸿农业开发股份有限公司</title>
+	<link rel="stylesheet" type="text/css" href="css/style1.css">
+</head>
+<body>
+    <header class="header">
+    	<div class="topsearch">
+        	<form method="post" name="form1" id="form1" action="" class="top_search">
+            	<input type="text" name="keyword" id="keyword" class="keyword">
+                <input type="submit" name="submit1" id="submit1" value="" class="searchbtn">
+            </form>
+        </div>
+        <div class="top">
+        	<div class="logo">
+            	<a href=" href="index.html""><img src="images/logo.gif"></a>
+            </div>
+            <div class="nav">
+            	<ul class="ul1">
+                	<li class="li_1"><a href="index.html" class="a_1">首页</a></li>
+                	<li class="li_1"><a href="index_gywm_1.html" class="a_1">关于我们</a></li>
+                	<li class="li_1"><a href="index_xwzx.html" class="a_1">新闻中心</a></li>
+                	<li class="li_1"><a class="a_1">项目介绍</a></li>
+                	<li class="li_1"><a class="a_1">招标信息</a></li>
+                	<li class="li_1"><a class="a_1">精品展示</a></li>
+                	<li class="li_1"><a href="index_gyxx.html" class="a_1 po">供应信息<span class="span_1"></span></a></li>
+                	<li class="li_1"><a class="a_1">培育技术</a></li>
+                	<li class="li_1"><a href="index_rlzy.html" class="a_1">人力资源</a></li>
+                	<li class="li_2"><a class="a_1">联系我们</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+	<div class="banner"></div>
+	<div class="combox">
+		<div class="pleft">
+			<div class="pleft_top">
+				<h3>关于我们<span>/ About Us</span></h3>
+				<ul class="ul_3">
+					<li class="li_6"><a href="index_gywm_1.html">荣鸿简介</a></li>
+					<li><a href="index_gywm_2.html">企业文化</a></li>
+					<li><a href="index_gywm_3.html">组织构架</a></li>
+					<li><a href="">荣鸿大记事</a></li>
+					<li><a href="index_gywm_4.html">资质荣誉</a></li>
+				</ul>
+			</div>
+			<div class="pleft_cont"></div>
+			<ul class="pleft_list">
+				<li class="tell">0551-65817400</li>
+				<li class="address">合肥屯溪路239号富广大厦25楼2511室</li>
+			</ul>
+			<div class="nbox">
+		    	<a class="a_8"></a>
+		    	<a class="a_9"></a>
+		    	<a class="a_10"><img src="images/wxm_03.gif" class="img_4"></a>
+			</div>
+		</div>
+		<div class="pright">
+			<div class="pright_top">
+				<h2>荣鸿简介</h2>
+				<span>当前位置：<a href="index_gywm_1.html">关于我们</a></span>
+			</div>
+			<div class="pright_txt">
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;安徽荣鸿农业开发股份有限公司在安徽省全椒县石沛镇投资了大型现代化农业示范产业园区——安徽荣鸿农业科技示范园，作为园区管理机构，安徽荣鸿农业开发股份有限公司（注册资金5000万元）下辖安徽金牛农业科技发展有限公司、安徽金牛永春农业科技有限公司、安徽金牛川蛟农业科技有限公司、安徽金牛园林绿化有限公司等公司。</p><br>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;安徽荣鸿农业科技示范园区总体规划面积约12000亩，预计项目总投资5亿元，计划分三期开发建设。其中，一期规划种植面积约7000亩，预计总投资1.5亿元。主要以引进国内外珍稀树种与园林绿化工程苗木为主，种植品种有加拿大曼地亚红豆杉、南方红豆杉、四川小叶桢楠（俗称金丝楠），丹桂、龙桂，台湾桤木、日本晚樱，以及金丝垂柳、银杏、合欢等绿化苗木，计划通过1年时间的建设，在安徽全椒石沛镇建立一个现代化、集约化、科技含量高的农业产业示范园区。二期项目计划种植面积5000亩，预计项目投资1.5亿元左右。计划于2014年11月启动，主要以引进国内外珍稀树种曼地亚红豆杉、小叶桢楠、台湾桤木、中华龙桂等为主要种植品种。三期项目投资预计投资2亿元，建设主要以红豆杉的紫杉醇提炼、加工为主导的生物制药项目，以及以红豆杉、丹桂、樱花为主导的保健酒厂、保健品厂等为主</p><br>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;项目全部建设完成后，每年可以解决上千人的就业问题，每年利税近亿元，同时通过成立林业合作社，走“公司+农户”的模式，带动周边群众致富</p>
+			</div>
+		</div>
+	</div>
+	<div class="foot">
+		<div class="foot_top">
+			Copyright 2013 安徽荣鸿农业开发股份有限公司皖ICP备14006290号  技术支持：<a href="http://www.wexiao.cn">微笑互联</a>
+			<span>
+				<a href="">联系我们</a> |
+				<a href="">法律声明</a> |
+				<a href="">网站地图</a> |
+				<a href="">企业邮箱</a>
+			</span>
+		</div>
+		<div class="foot_cont"><a href="http://荣鸿.com">荣鸿.com</a>&nbsp;&nbsp;<a href="http://荣鸿农业.com">荣鸿农业.com</a></div>
+	</div>
+</body>
+</html>
